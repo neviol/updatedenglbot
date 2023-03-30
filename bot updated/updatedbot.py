@@ -8,7 +8,7 @@ import smtplib
 from telebot import types
 from flask import Flask, request
 
-TOKEN = "2048593769:AAHfxbM2191JDKVIfJ0TiPt1g33c5kHzQh4"
+TOKEN = ""
 # Token of the Bot
 
 bot = telebot.TeleBot(TOKEN)
